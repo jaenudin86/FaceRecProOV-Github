@@ -86,3 +86,5 @@ C:\Users\Gili\My Projects\Balagan\OpenCV\FaceRecProOV\FaceRecProOV\obj\x86\Debug
 C:\Users\Gili\My Projects\Balagan\OpenCV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
 C:\Users\Gili\My Projects\Balagan\OpenCV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
 C:\Users\Gili\My Projects\Balagan\OpenCV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Gili\My Projects\FaceRecProOV-Github\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Gili\My Projects\FaceRecProOV-Github\obj\x86\Debug\MultiFaceRec.pdb
